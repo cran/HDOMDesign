@@ -1,0 +1,3 @@
+importFrom("stats", "dist")
+importFrom("HadamardR", "Hadamard_Matrix")
+export(HDOM2,HDOM4,HDOM8,HDOM16,HDOMdesign)

@@ -1,5 +1,5 @@
 Package: HDOMDesign
-Version: 1.0-1
+Version: 1.0-2
 Title: High-Dimensional Orthogonal Maximin Distance Designs
 Authors@R: c(person("Xu He", role = c("aut", "cre"), email = "hexu@amss.ac.cn"), person("Fasheng Sun", role = c("aut")))
 Description: Contains functions to construct high-dimensional orthogonal maximin distance designs in two, four, eight, and sixteen levels from rotating the Kronecker product of sub-Hadamard matrices. 
@@ -9,6 +9,6 @@ Author: Xu He [aut, cre],
 Maintainer: Xu He <hexu@amss.ac.cn>
 Depends: HadamardR
 NeedsCompilation: yes
-Packaged: 2022-06-17 13:59:51 UTC; Mario
+Packaged: 2025-05-16 15:21:11 UTC; hexu
 Repository: CRAN
-Date/Publication: 2022-06-21 08:50:05 UTC
+Date/Publication: 2025-05-17 06:30:01 UTC
